@@ -15,7 +15,7 @@
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <PublishUrl>C:\Users\User\source\repos\TrialApp\published\</PublishUrl>
-    <Install>true</Install>
+    <Install>false</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -26,7 +26,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</InstallUrl>
     <UpdateUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</UpdateUrl>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>5</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
