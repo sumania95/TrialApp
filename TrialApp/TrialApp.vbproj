@@ -26,9 +26,12 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</InstallUrl>
     <UpdateUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</UpdateUrl>
-    <ApplicationRevision>6</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish</WebPage>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
