@@ -15,7 +15,7 @@
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <PublishUrl>C:\Users\User\source\repos\TrialApp\TrialApp\published\</PublishUrl>
-    <Install>false</Install>
+    <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
