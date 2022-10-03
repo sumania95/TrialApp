@@ -25,7 +25,8 @@
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</InstallUrl>
-    <ApplicationRevision>1</ApplicationRevision>
+    <UpdateUrl>https://github.com/sumania95/TrialApp/tree/master/TrialApp/published/</UpdateUrl>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
